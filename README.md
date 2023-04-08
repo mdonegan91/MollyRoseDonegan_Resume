@@ -1,9 +1,5 @@
 # Molly Rose Donegan's Resume
 
-##### By _Molly Donegan_
-
-#### _Description_
-
 _Learn more about my skills and accomplishments here:_
 
 [Molly's Resume](https://mdonegan91.github.io/galactic-age/)
@@ -25,6 +21,6 @@ _Learn more about my skills and accomplishments here:_
 
 ## License
 
-* _MIT_
+* MIT
 
 Copyright (c) _2023_ _Molly Donegan_
