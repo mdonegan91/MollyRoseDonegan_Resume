@@ -2,7 +2,7 @@
 
 _Learn more about my skills and accomplishments here:_
 
-[Molly's Resume](https://mdonegan91.github.io/galactic-age/)
+[Molly's Resume](https://mdonegan91.github.io/MollyRoseDonegan_Resume/)
 
 ## Technologies Used
 
